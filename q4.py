@@ -5,7 +5,8 @@
 # Confirms total price and asks if they want to book another movie.
 # Ends when they say “no” and displays total bookings and cost.
 # Skills practiced: loops, input, conditionals, calculations, nested dictionaries
-
+#Answer is below
+#see below
 movies = {
     "1": {"movie1": "inception", "show_time": "4:00pm", "seat_price": 15.99},
     "2": {"movie2": "only you", "show_time": "6:00pm", "seat_price": 15.99},
